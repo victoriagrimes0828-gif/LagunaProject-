@@ -91,7 +91,7 @@ var SELECTIONS_DATA = {
       "brand": "Phillip Jeffries",
       "sku": "43702",
       "price": "",
-      "image": ""
+      "image": "images/selections/office/wallpaper.jpg"
     }
   ]
 };
