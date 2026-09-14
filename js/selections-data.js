@@ -129,5 +129,15 @@ var SELECTIONS_DATA = {
       "price": "",
       "image": "images/selections/office/wallpaper.jpg"
     }
+  ],
+  "misc": [
+    {
+      "name": "Front Door Paint Color",
+      "description": "Vast Sky",
+      "brand": "Sherwin-Williams",
+      "sku": "SW 6506",
+      "price": "",
+      "image": "images/selections/misc/front-door-paint-color.png"
+    }
   ]
 };
