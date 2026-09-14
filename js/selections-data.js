@@ -60,7 +60,7 @@ var SELECTIONS_DATA = {
       "brand": "Benjamin Moore",
       "sku": "2062-70",
       "price": "",
-      "image": ""
+      "image": "images/selections/bedroom-2/paint-color.webp"
     },
     {
       "name": "King Bed",
