@@ -84,5 +84,14 @@ var SELECTIONS_DATA = {
   "bunk-bedroom": [],
   "master-bedroom": [],
   "master-bathroom": [],
-  "office": []
+  "office": [
+    {
+      "name": "Wallpaper",
+      "description": "Natural Blend",
+      "brand": "Phillip Jeffries",
+      "sku": "43702",
+      "price": "",
+      "image": ""
+    }
+  ]
 };
