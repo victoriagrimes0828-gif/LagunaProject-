@@ -303,7 +303,11 @@ a.card.selection-summary-card:hover h3 { color: var(--taupe-dark); }
 .stat .label { text-transform: uppercase; font-size: 0.75rem; letter-spacing: 0.1em; color: var(--ink); }
 
 /* ---------- Selection cards ---------- */
-.selection-photo { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
+/* Product/material photos vary wildly in aspect ratio (a tall stool vs. a
+   wide tile layout), so show the whole image on a neutral ground instead
+   of cropping it to fit a fixed box, and let people click to zoom in. */
+.selection-photo-wrap { background: var(--cream-deep); display: flex; align-items: center; justify-content: center; }
+.selection-photo { width: 100%; max-height: 340px; object-fit: contain; display: block; cursor: zoom-in; }
 
 .selection-meta {
   font-size: 0.78rem;
@@ -354,6 +358,44 @@ a.card.selection-summary-card:hover h3 { color: var(--taupe-dark); }
 .footer-social { display: flex; justify-content: center; gap: 1.5rem; margin-bottom: 1rem; flex-wrap: wrap; }
 .footer-social a { text-transform: uppercase; font-size: 0.72rem; letter-spacing: 0.1em; font-weight: 600; color: var(--ink); }
 .footer-social a:hover { color: var(--taupe-dark); }
+
+/* ---------- Photo lightbox ---------- */
+.lightbox-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: rgba(31, 46, 52, 0.92);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  cursor: zoom-out;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.lightbox-overlay.open { opacity: 1; pointer-events: auto; }
+
+.lightbox-overlay img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: var(--radius);
+  box-shadow: 0 30px 60px -20px rgba(0, 0, 0, 0.5);
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.5rem;
+  color: var(--cream);
+  font-size: 2rem;
+  line-height: 1;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+}
 
 /* ---------- Small-screen tuning ---------- */
 @media (max-width: 620px) {

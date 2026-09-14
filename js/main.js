@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
   renderSelections();
   setupMobileNav();
   setupNavDropdown();
+  setupLightbox();
 });
 
 function applySiteConfig() {
@@ -90,7 +91,7 @@ var NO_PHOTO_NAMES = ['grout', 'grout color', 'saddle', 'sill', 'saddles & sills
 function renderSelectionCard(item) {
   var skipPhoto = NO_PHOTO_NAMES.indexOf(String(item.name).toLowerCase()) !== -1;
   var photo = skipPhoto ? '' : (item.image
-    ? '<img class="selection-photo" src="' + escapeHtml(item.image) + '" alt="' + escapeHtml(item.name) + '">'
+    ? '<div class="selection-photo-wrap"><img class="selection-photo" src="' + escapeHtml(item.image) + '" alt="' + escapeHtml(item.name) + '"></div>'
     : '<div class="ph-image ph-image--wide"><span class="ph-label">' + escapeHtml(item.name) + '<br>(replace with your image)</span></div>');
 
   var metaParts = [];
@@ -140,5 +141,34 @@ function setupNavDropdown() {
   document.addEventListener('click', function () {
     menu.classList.remove('open');
     toggle.setAttribute('aria-expanded', 'false');
+  });
+}
+
+// Click any selection photo to see it full-size (photos are shown uncropped
+// but at a capped height in the card, so this is the way to see full
+// resolution / fine tile-pattern detail).
+function setupLightbox() {
+  var overlay = document.createElement('div');
+  overlay.className = 'lightbox-overlay';
+  overlay.innerHTML = '<button type="button" class="lightbox-close" aria-label="Close">&times;</button><img alt="">';
+  document.body.appendChild(overlay);
+  var img = overlay.querySelector('img');
+
+  function open(src, alt) {
+    img.src = src;
+    img.alt = alt || '';
+    overlay.classList.add('open');
+  }
+  function close() {
+    overlay.classList.remove('open');
+  }
+
+  document.addEventListener('click', function (e) {
+    var photo = e.target.closest('.selection-photo');
+    if (photo) { open(photo.src, photo.alt); return; }
+    if (e.target.closest('.lightbox-overlay')) close();
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') close();
   });
 }
