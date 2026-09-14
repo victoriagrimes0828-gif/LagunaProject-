@@ -24,8 +24,34 @@ var SELECTIONS_DATA = {
       "image": ""
     }
   ],
-  "mud-room": [],
-  "guest-room": [],
+  "mud-room": [
+    {
+      "name": "Floor Tile",
+      "description": "Marakesh",
+      "brand": "Lungarno",
+      "sku": "",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Bench Cushion",
+      "description": "29 Park",
+      "brand": "Davis Fabric",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
+  "guest-room": [
+    {
+      "name": "Paint Color",
+      "description": "Sea Pearl",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
   "bedroom-3": [],
   "bedroom-2": [],
   "bathroom-2": [],
