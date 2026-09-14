@@ -12,7 +12,7 @@ var SELECTIONS_DATA = {
       "brand": "",
       "sku": "W789&",
       "price": "",
-      "image": ""
+      "image": "images/selections/powder-room/wallpaper.jpg"
     }
   ],
   "living-room": [
