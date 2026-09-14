@@ -63,7 +63,16 @@ var SELECTIONS_DATA = {
       "image": "images/selections/bedroom-2/king-bed.webp"
     }
   ],
-  "bathroom-2": [],
+  "bathroom-2": [
+    {
+      "name": "Wallpaper",
+      "description": "Jammu — Wisteria Blue",
+      "brand": "",
+      "sku": "NS50602",
+      "price": "",
+      "image": ""
+    }
+  ],
   "bunk-bedroom": [],
   "master-bedroom": [],
   "master-bathroom": [],
