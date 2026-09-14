@@ -124,6 +124,14 @@ var SELECTIONS_DATA = {
       "sku": "",
       "price": "",
       "image": ""
+    },
+    {
+      "name": "Dresser",
+      "description": "Sullivan Chest",
+      "brand": "Four Hands",
+      "sku": "",
+      "price": 2350,
+      "image": ""
     }
   ],
   "master-bedroom": [
