@@ -50,7 +50,7 @@ var SELECTIONS_DATA = {
       "brand": "Sherwin-Williams",
       "sku": "SW 7036",
       "price": "",
-      "image": ""
+      "image": "images/selections/mud-room/cabinet-color.png"
     },
     {
       "name": "Floor Tile",
