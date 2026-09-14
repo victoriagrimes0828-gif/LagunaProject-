@@ -89,7 +89,7 @@ var SELECTIONS_DATA = {
       "brand": "Thibaut",
       "sku": "T10827",
       "price": "",
-      "image": ""
+      "image": "images/selections/master-bedroom/wallpaper.jpg"
     }
   ],
   "master-bathroom": [],
