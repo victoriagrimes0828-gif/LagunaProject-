@@ -66,7 +66,7 @@ var SELECTIONS_DATA = {
       "brand": "Twenty-Nine Park",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/mud-room/bench-cushion.jpg"
     }
   ],
   "guest-room": [
