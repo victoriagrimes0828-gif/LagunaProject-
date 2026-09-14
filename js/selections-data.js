@@ -31,7 +31,7 @@ var SELECTIONS_DATA = {
       "brand": "Lungarno",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/mud-room/floor-tile.png"
     },
     {
       "name": "Bench Cushion",
