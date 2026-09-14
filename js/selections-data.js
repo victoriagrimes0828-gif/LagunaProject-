@@ -32,7 +32,7 @@ var SELECTIONS_DATA = {
       "brand": "Palecek",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/kitchen-dining/counter-stools.webp"
     },
     {
       "name": "Bar Faucet",
