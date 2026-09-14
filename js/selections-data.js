@@ -5,6 +5,16 @@
 // add items to each array below as choices are made.
 var SELECTIONS_DATA = {
   "ground-floor": [],
+  "powder-room": [
+    {
+      "name": "Wallpaper",
+      "description": "Pastoral 5 Driftwood",
+      "brand": "",
+      "sku": "W789&",
+      "price": "",
+      "image": ""
+    }
+  ],
   "living-room": [
     {
       "name": "Ceiling Wallpaper",
