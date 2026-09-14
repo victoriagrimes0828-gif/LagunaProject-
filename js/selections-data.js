@@ -53,7 +53,16 @@ var SELECTIONS_DATA = {
     }
   ],
   "bedroom-3": [],
-  "bedroom-2": [],
+  "bedroom-2": [
+    {
+      "name": "King Bed",
+      "description": "Grand Bermuda Queen Bed",
+      "brand": "Gabby",
+      "sku": "",
+      "price": 3950,
+      "image": ""
+    }
+  ],
   "bathroom-2": [],
   "bunk-bedroom": [],
   "master-bedroom": [],
