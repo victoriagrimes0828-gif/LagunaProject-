@@ -4,7 +4,16 @@
 // 113 Laguna | Dewling — rooms are listed with no selections yet;
 // add items to each array below as choices are made.
 var SELECTIONS_DATA = {
-  "ground-floor": [],
+  "ground-floor": [
+    {
+      "name": "Stools",
+      "description": "Avalon",
+      "brand": "Palecek",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
   "powder-room": [
     {
       "name": "Wallpaper",
