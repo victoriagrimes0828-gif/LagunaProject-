@@ -6,7 +6,24 @@
 var SELECTIONS_DATA = {
   "ground-floor": [],
   "living-room": [],
-  "kitchen-dining": [],
+  "kitchen-dining": [
+    {
+      "name": "Bar Faucet",
+      "description": "Artifacts collection",
+      "brand": "Kohler",
+      "sku": "K-99267-2MB",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Kitchen Faucet",
+      "description": "Artifacts collection — Brushed Bronze",
+      "brand": "Kohler",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
   "mud-room": [],
   "guest-room": [],
   "bedroom-3": [],
