@@ -153,6 +153,14 @@ var SELECTIONS_DATA = {
       "sku": "43702",
       "price": "",
       "image": "images/selections/office/wallpaper.jpg"
+    },
+    {
+      "name": "Desk",
+      "description": "Sonnet",
+      "brand": "",
+      "sku": "",
+      "price": 2925,
+      "image": "images/selections/office/desk.jpg"
     }
   ],
   "misc": [
