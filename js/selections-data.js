@@ -123,12 +123,12 @@ var SELECTIONS_DATA = {
       "image": "images/selections/bedroom-2/paint-color.webp"
     },
     {
-      "name": "King Bed",
+      "name": "Queen Bed",
       "description": "Grand Bermuda Queen Bed",
       "brand": "Gabby",
       "sku": "",
       "price": 3950,
-      "image": "images/selections/bedroom-2/king-bed.webp"
+      "image": "images/selections/bedroom-2/queen-bed.webp"
     }
   ],
   "bathroom-2": [
