@@ -82,9 +82,9 @@ var SELECTIONS_DATA = {
       "name": "Shiplap Ceiling Paint",
       "description": "Smokey Taupe",
       "brand": "",
-      "sku": "",
+      "sku": "983",
       "price": "",
-      "image": ""
+      "image": "images/selections/guest-room/shiplap-ceiling-paint.png"
     }
   ],
   "bedroom-3": [],
