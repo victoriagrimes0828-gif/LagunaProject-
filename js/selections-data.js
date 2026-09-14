@@ -108,7 +108,16 @@ var SELECTIONS_DATA = {
       "image": "images/selections/bathroom-2/wallpaper.png"
     }
   ],
-  "bunk-bedroom": [],
+  "bunk-bedroom": [
+    {
+      "name": "Ceiling Detail",
+      "description": "Wood — same wood as floor",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
   "master-bedroom": [
     {
       "name": "Wallpaper",
