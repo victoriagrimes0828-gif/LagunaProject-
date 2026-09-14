@@ -62,8 +62,8 @@ var SELECTIONS_DATA = {
     },
     {
       "name": "Bench Cushion",
-      "description": "29 Park",
-      "brand": "Davis Fabric",
+      "description": "Davis — Lichen",
+      "brand": "Twenty-Nine Park",
       "sku": "",
       "price": "",
       "image": ""
