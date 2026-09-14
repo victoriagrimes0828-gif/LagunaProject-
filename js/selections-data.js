@@ -12,7 +12,7 @@ var SELECTIONS_DATA = {
       "brand": "Wallquest Seabrook",
       "sku": "NR182X",
       "price": "",
-      "image": ""
+      "image": "images/selections/living-room/ceiling-wallpaper.jpg"
     }
   ],
   "kitchen-dining": [
