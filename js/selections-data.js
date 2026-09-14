@@ -131,7 +131,7 @@ var SELECTIONS_DATA = {
       "brand": "Four Hands",
       "sku": "",
       "price": 2350,
-      "image": ""
+      "image": "images/selections/bunk-bedroom/dresser.jpg"
     }
   ],
   "master-bedroom": [
