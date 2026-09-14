@@ -55,6 +55,14 @@ var SELECTIONS_DATA = {
   "bedroom-3": [],
   "bedroom-2": [
     {
+      "name": "Paint Color",
+      "description": "Harbor Fog",
+      "brand": "Benjamin Moore",
+      "sku": "2062-70",
+      "price": "",
+      "image": ""
+    },
+    {
       "name": "King Bed",
       "description": "Grand Bermuda Queen Bed",
       "brand": "Gabby",
