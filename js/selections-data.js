@@ -60,7 +60,7 @@ var SELECTIONS_DATA = {
       "brand": "Gabby",
       "sku": "",
       "price": 3950,
-      "image": ""
+      "image": "images/selections/bedroom-2/king-bed.webp"
     }
   ],
   "bathroom-2": [],
