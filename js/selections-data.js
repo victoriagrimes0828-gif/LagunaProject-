@@ -5,7 +5,16 @@
 // add items to each array below as choices are made.
 var SELECTIONS_DATA = {
   "ground-floor": [],
-  "living-room": [],
+  "living-room": [
+    {
+      "name": "Ceiling Wallpaper",
+      "description": "",
+      "brand": "Wallquest Seabrook",
+      "sku": "NR182X",
+      "price": "",
+      "image": ""
+    }
+  ],
   "kitchen-dining": [
     {
       "name": "Bar Faucet",
