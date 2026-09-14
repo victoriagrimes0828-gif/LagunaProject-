@@ -102,7 +102,7 @@ var SELECTIONS_DATA = {
       "brand": "Made Goods",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/bedroom-3/nightstand.jpg"
     },
     {
       "name": "Dresser",
@@ -110,7 +110,7 @@ var SELECTIONS_DATA = {
       "brand": "Made Goods",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/bedroom-3/dresser.jpg"
     }
   ],
   "bedroom-2": [
