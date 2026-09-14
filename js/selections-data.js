@@ -95,7 +95,24 @@ var SELECTIONS_DATA = {
       "image": "images/selections/guest-room/shiplap-ceiling-paint.png"
     }
   ],
-  "bedroom-3": [],
+  "bedroom-3": [
+    {
+      "name": "Nightstand",
+      "description": "Isla — French Grey",
+      "brand": "Made Goods",
+      "sku": "",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Dresser",
+      "description": "Isla — French Grey",
+      "brand": "Made Goods",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
   "bedroom-2": [
     {
       "name": "Paint Color",
