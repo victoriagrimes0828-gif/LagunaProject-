@@ -45,6 +45,14 @@ var SELECTIONS_DATA = {
   ],
   "mud-room": [
     {
+      "name": "Cabinet Color",
+      "description": "Accessible Beige",
+      "brand": "Sherwin-Williams",
+      "sku": "SW 7036",
+      "price": "",
+      "image": ""
+    },
+    {
       "name": "Floor Tile",
       "description": "Marakesh",
       "brand": "Lungarno",
