@@ -82,7 +82,16 @@ var SELECTIONS_DATA = {
     }
   ],
   "bunk-bedroom": [],
-  "master-bedroom": [],
+  "master-bedroom": [
+    {
+      "name": "Wallpaper",
+      "description": "Persian Carpet",
+      "brand": "Thibaut",
+      "sku": "T10827",
+      "price": "",
+      "image": ""
+    }
+  ],
   "master-bathroom": [],
   "office": [
     {
