@@ -78,7 +78,7 @@ var SELECTIONS_DATA = {
       "brand": "",
       "sku": "NS50602",
       "price": "",
-      "image": ""
+      "image": "images/selections/bathroom-2/wallpaper.png"
     }
   ],
   "bunk-bedroom": [],
