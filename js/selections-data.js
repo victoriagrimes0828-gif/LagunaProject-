@@ -57,7 +57,7 @@ var SELECTIONS_DATA = {
       "brand": "Kohler",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/kitchen-dining/kitchen-faucet.jpg"
     }
   ],
   "mud-room": [
