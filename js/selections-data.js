@@ -66,6 +66,14 @@ var SELECTIONS_DATA = {
       "sku": "",
       "price": "",
       "image": ""
+    },
+    {
+      "name": "Cabinet Hardware",
+      "description": "Westwood — Satin Brass",
+      "brand": "Emtek",
+      "sku": "",
+      "price": "",
+      "image": ""
     }
   ],
   "mud-room": [
