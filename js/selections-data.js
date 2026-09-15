@@ -226,6 +226,14 @@ var SELECTIONS_DATA = {
       "sku": "",
       "price": 2025,
       "image": ""
+    },
+    {
+      "name": "Chandelier",
+      "description": "Pedrillo",
+      "brand": "Hudson Valley",
+      "sku": "",
+      "price": "",
+      "image": ""
     }
   ],
   "office": [
