@@ -221,10 +221,10 @@ var SELECTIONS_DATA = {
   "master-bathroom": [
     {
       "name": "Medicine Cabinets",
-      "description": "",
-      "brand": "",
+      "description": "Leda 53 1/4\" x 32\" — Lighted, Frameless, 3 Door (price is each)",
+      "brand": "Signature Hardware",
       "sku": "",
-      "price": "",
+      "price": 2025,
       "image": ""
     }
   ],
