@@ -173,7 +173,7 @@ var SELECTIONS_DATA = {
       "brand": "Benjamin Moore",
       "sku": "1672",
       "price": "",
-      "image": ""
+      "image": "images/selections/bunk-bedroom/bunk-bed-color.png"
     }
   ],
   "master-bedroom": [
