@@ -105,11 +105,11 @@ var SELECTIONS_DATA = {
   "guest-room": [
     {
       "name": "Paint Color",
-      "description": "Sea Pearl",
-      "brand": "",
-      "sku": "",
+      "description": "Seapearl",
+      "brand": "Benjamin Moore",
+      "sku": "OC-19",
       "price": "",
-      "image": ""
+      "image": "images/selections/guest-room/paint-color.jpg"
     },
     {
       "name": "Shiplap Ceiling Paint",
@@ -190,6 +190,14 @@ var SELECTIONS_DATA = {
       "sku": "1672",
       "price": "",
       "image": "images/selections/bunk-bedroom/bunk-bed-color.png"
+    },
+    {
+      "name": "Wall Paint Color",
+      "description": "Seapearl",
+      "brand": "Benjamin Moore",
+      "sku": "OC-19",
+      "price": "",
+      "image": "images/selections/bunk-bedroom/wall-paint-color.jpg"
     }
   ],
   "master-bedroom": [
