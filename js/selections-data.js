@@ -37,10 +37,10 @@ var SELECTIONS_DATA = {
   "kitchen-dining": [
     {
       "name": "Counter Stools",
-      "description": "Avalon",
+      "description": "Avalon (price is each)",
       "brand": "Palecek",
       "sku": "",
-      "price": "",
+      "price": 4400,
       "image": "images/selections/kitchen-dining/counter-stools.webp"
     },
     {
