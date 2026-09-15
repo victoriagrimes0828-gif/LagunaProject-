@@ -166,6 +166,14 @@ var SELECTIONS_DATA = {
       "sku": "",
       "price": 2350,
       "image": "images/selections/bunk-bedroom/dresser.jpg"
+    },
+    {
+      "name": "Bunk Bed Color",
+      "description": "Alfresco",
+      "brand": "Benjamin Moore",
+      "sku": "1672",
+      "price": "",
+      "image": ""
     }
   ],
   "master-bedroom": [
