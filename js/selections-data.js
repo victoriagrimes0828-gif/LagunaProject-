@@ -225,7 +225,7 @@ var SELECTIONS_DATA = {
       "brand": "Signature Hardware",
       "sku": "",
       "price": 2025,
-      "image": ""
+      "image": "images/selections/master-bathroom/medicine-cabinets.jpg"
     },
     {
       "name": "Chandelier",
