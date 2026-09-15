@@ -65,7 +65,7 @@ var SELECTIONS_DATA = {
       "brand": "Kohler",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/kitchen-dining/soap-dispenser.jpg"
     },
     {
       "name": "Cabinet Hardware",
@@ -73,7 +73,7 @@ var SELECTIONS_DATA = {
       "brand": "Emtek",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/kitchen-dining/cabinet-hardware.jpg"
     }
   ],
   "mud-room": [
