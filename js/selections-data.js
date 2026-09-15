@@ -58,6 +58,14 @@ var SELECTIONS_DATA = {
       "sku": "",
       "price": "",
       "image": "images/selections/kitchen-dining/kitchen-faucet.jpg"
+    },
+    {
+      "name": "Soap Dispenser",
+      "description": "Artifacts collection",
+      "brand": "Kohler",
+      "sku": "",
+      "price": "",
+      "image": ""
     }
   ],
   "mud-room": [
