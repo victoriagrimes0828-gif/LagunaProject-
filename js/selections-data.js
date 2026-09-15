@@ -11,7 +11,7 @@ var SELECTIONS_DATA = {
       "brand": "",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/ground-floor/cabinet-concept.jpg"
     }
   ],
   "powder-room": [
