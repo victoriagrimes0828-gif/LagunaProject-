@@ -233,7 +233,7 @@ var SELECTIONS_DATA = {
       "brand": "Hudson Valley",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/master-bathroom/chandelier.jpg"
     }
   ],
   "office": [
