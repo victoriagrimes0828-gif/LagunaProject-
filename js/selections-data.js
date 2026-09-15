@@ -49,7 +49,7 @@ var SELECTIONS_DATA = {
       "brand": "Kohler",
       "sku": "K-99267-2MB",
       "price": "",
-      "image": ""
+      "image": "images/selections/kitchen-dining/bar-faucet.jpg"
     },
     {
       "name": "Kitchen Faucet",
