@@ -153,11 +153,11 @@ var SELECTIONS_DATA = {
   "bunk-bedroom": [
     {
       "name": "Ceiling Detail",
-      "description": "Wood — same wood as floor",
+      "description": "Wood — Honey Wheat (same wood as floor)",
       "brand": "",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/bunk-bedroom/ceiling-detail.jpg"
     },
     {
       "name": "Dresser",
