@@ -218,7 +218,16 @@ var SELECTIONS_DATA = {
       "image": ""
     }
   ],
-  "master-bathroom": [],
+  "master-bathroom": [
+    {
+      "name": "Medicine Cabinets",
+      "description": "",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
   "office": [
     {
       "name": "Wallpaper",
