@@ -208,6 +208,14 @@ var SELECTIONS_DATA = {
       "sku": "T10827",
       "price": "",
       "image": "images/selections/master-bedroom/wallpaper.jpg"
+    },
+    {
+      "name": "Wall Detail",
+      "description": "Oak boxes (finish TBD)",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
     }
   ],
   "master-bathroom": [],
