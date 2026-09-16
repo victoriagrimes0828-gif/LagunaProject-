@@ -7,11 +7,11 @@ var SELECTIONS_DATA = {
   "ground-floor": [
     {
       "name": "Cabinet Concept",
-      "description": "White cabinets with cane inlay",
+      "description": "",
       "brand": "",
       "sku": "",
       "price": "",
-      "image": "images/selections/ground-floor/cabinet-concept.jpg"
+      "image": ""
     }
   ],
   "powder-room": [
