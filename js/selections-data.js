@@ -7,11 +7,11 @@ var SELECTIONS_DATA = {
   "ground-floor": [
     {
       "name": "Cabinet Concept",
-      "description": "",
+      "description": "White cabinetry with cane inlay — built-in bar/wine storage",
       "brand": "",
       "sku": "",
       "price": "",
-      "image": ""
+      "image": "images/selections/ground-floor/cabinet-concept.jpg"
     }
   ],
   "powder-room": [
