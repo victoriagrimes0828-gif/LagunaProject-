@@ -123,18 +123,18 @@ var SELECTIONS_DATA = {
   "bedroom-3": [
     {
       "name": "Nightstand",
-      "description": "Isla — French Grey",
+      "description": "Isla Chest — French Grey (price is each)",
       "brand": "Made Goods",
       "sku": "",
-      "price": "",
-      "image": "images/selections/bedroom-3/nightstand.jpg"
+      "price": 4200,
+      "image": ""
     },
     {
       "name": "Dresser",
       "description": "Isla — French Grey",
       "brand": "Made Goods",
       "sku": "",
-      "price": "",
+      "price": 6200,
       "image": "images/selections/bedroom-3/dresser.jpg"
     }
   ],
