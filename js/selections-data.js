@@ -127,7 +127,7 @@ var SELECTIONS_DATA = {
       "brand": "Made Goods",
       "sku": "",
       "price": 4200,
-      "image": ""
+      "image": "images/selections/bedroom-3/nightstand.jpg"
     },
     {
       "name": "Dresser",
