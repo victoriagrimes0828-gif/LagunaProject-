@@ -22,6 +22,14 @@ var SELECTIONS_DATA = {
       "sku": "W789&",
       "price": "",
       "image": "images/selections/powder-room/wallpaper.jpg"
+    },
+    {
+      "name": "Countertop",
+      "description": "Vagli Calacatta",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
     }
   ],
   "living-room": [
@@ -110,6 +118,16 @@ var SELECTIONS_DATA = {
       "image": "images/selections/mud-room/bench-cushion.jpg"
     }
   ],
+  "laundry-room": [
+    {
+      "name": "Countertop",
+      "description": "Crater — beige, Taj Mahal-inspired veining; pairs with the planned wall treatment",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
   "guest-room": [
     {
       "name": "Paint Color",
@@ -164,6 +182,16 @@ var SELECTIONS_DATA = {
       "image": "images/selections/bedroom-2/queen-bed.webp"
     }
   ],
+  "bathroom-1": [
+    {
+      "name": "Countertop",
+      "description": "Pietra Danae — white quartz with beige veining (or a similar white stone with warm beige veining)",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
   "bathroom-2": [
     {
       "name": "Wallpaper",
@@ -172,6 +200,34 @@ var SELECTIONS_DATA = {
       "sku": "NS50602",
       "price": "",
       "image": "images/selections/bathroom-2/wallpaper.png"
+    },
+    {
+      "name": "Countertop",
+      "description": "Everest Adelaide — white with soft blue veining",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
+  "bathroom-3": [
+    {
+      "name": "Countertop",
+      "description": "Miraggio Duo — white with grey and beige veining",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
+    }
+  ],
+  "tub-bathroom": [
+    {
+      "name": "Countertop",
+      "description": "Spectrum Ravishing — white quartz with blue and white veining; sample selected together with the tub tile",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
     }
   ],
   "bunk-bedroom": [
@@ -242,6 +298,14 @@ var SELECTIONS_DATA = {
       "sku": "",
       "price": "",
       "image": "images/selections/master-bathroom/chandelier.jpg"
+    },
+    {
+      "name": "Countertop",
+      "description": "Taj Mahal or Solitaj (a quartz inspired by Taj Mahal) — final choice pending cost",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
     }
   ],
   "office": [
