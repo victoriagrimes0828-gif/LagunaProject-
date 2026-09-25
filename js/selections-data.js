@@ -36,6 +36,14 @@ var SELECTIONS_DATA = {
   ],
   "kitchen-dining": [
     {
+      "name": "Countertop",
+      "description": "",
+      "brand": "",
+      "sku": "",
+      "price": "",
+      "image": ""
+    },
+    {
       "name": "Counter Stools",
       "description": "Avalon (price is each)",
       "brand": "Palecek",
